@@ -1,0 +1,8 @@
+PyPDF2
+python-docx
+python-pptx
+Pillow
+pytesseract
+gTTS
+opencv-python
+numpy
